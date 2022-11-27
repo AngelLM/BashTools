@@ -1,2 +1,2 @@
-# BashTools
-Repository with some bash tools
+# htbmachines
+HTB machine search engine
